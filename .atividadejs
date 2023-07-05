@@ -1,0 +1,36 @@
+// Number
+var number1 = 10;
+var number2 = 3.14;
+
+// String
+var string1 = "Olá";
+var string2 = 'Mundo';
+
+// Boolean
+var boolean1 = true;
+var boolean2 = false;
+
+// Array
+var array1 = [1, 2, 3];
+var array2 = ['a', 'b', 'c'];
+
+// Object
+var object1 = { marca: 'Sansung', modelo: 'A10s' };
+var object2 = { marca: 'Apple', modelo: 'iPhone' };
+
+// Undefined
+var undefined1 = undefined;
+var undefined2;
+
+// Null
+var null1 = null;
+var null2 = null;
+
+console.log(number1, number2);
+console.log(string1, string2);
+console.log(boolean1, boolean2);
+console.log(array1, array2);
+console.log(object1, object2);
+console.log(undefined1, undefined2);
+console.log(null1, null2);
+
